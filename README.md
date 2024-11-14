@@ -1,2 +1,12 @@
 # jarren_duran_visuals
-Web scraped Jarren Duran's statcast data for every plate appearance that he had in the 2024 season.
+
+## Title
+Web Scraping and matplotlib graphic generation for statcast Jarren Duran 2024 season
+
+## Features
+- WebScraped off of baseball savant and then used pandas to manipulate data
+- Used matplot lib to generate  visually appealing and informative plots for Jarren Durans 2024 season
+- Will continue to update and generate more graphs as well as incorporating sliders to turn on/off certain stats
+
+## Author
+Leander Goessling
